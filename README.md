@@ -10,11 +10,11 @@ Updated: `2025-12-07T07:58:38.575649`
 
 ### SVG Badge (Dark Mode)
 
-![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
+![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/refs/heads/main/trending-badge.svg)
 ### Embed Otomatis (link ke file SVG)
 
 ```markdown
-![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
+![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/refs/heads/main/trending-badge.svg)
 ```
 
 **Trending Topic:** `pastikan kebijakan strategis`  
