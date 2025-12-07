@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "random-trending-x"
+version = "1.0.0"
+description = "Random Trending Topic from Indonesia Twitter"
+requires-python = ">=3.9"
+dependencies = [
+    "flask",
+    "requests",
+    "beautifulsoup4"
+]
+
+[project.scripts]
+app = "api.index:app"
