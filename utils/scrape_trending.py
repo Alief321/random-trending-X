@@ -12,6 +12,8 @@ HEADERS = {
 
 def get_trending_random():
     res = requests.get(URL, headers=HEADERS)
+    print("STATUS:", res.status_code)
+    print("BODY:", res.text[:500])
     soup = BeautifulSoup(res.text, "html.parser")
 
     # Ambil list trending
