@@ -6,20 +6,19 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2025-12-07T14:31:24.711701`
+Updated: `2025-12-07T14:45:35.181628`
 
 ### SVG Badge (Dark Mode)
 
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
-
 ### Embed Otomatis (link ke file SVG)
 
 ```markdown
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `#MeAndTheeSeriesEP4`  
-**Tweet Count:** 3.4M
+**Trending Topic:** `Petr Yan`  
+**Tweet Count:** 21K
 
 ---
 
