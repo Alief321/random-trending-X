@@ -10,43 +10,7 @@ Updated: `2025-12-07T14:31:24.711701`
 
 ### SVG Badge (Dark Mode)
 
-```html
-<a href="https://github.com/Alief321/random-trending-X">
-<svg width="500" height="180" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 180">
-  <defs>
-    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#00d4ff;stop-opacity:0.1" />
-      <stop offset="100%" style="stop-color:#0088ff;stop-opacity:0.05" />
-    </linearGradient>
-    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
-      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.15" />
-    </filter>
-  </defs>
-  <rect width="100%" height="100%" fill="#0a0e27" rx="12" stroke="#1a2a4e" stroke-width="1.5" filter="url(#shadow)"/>
-  <rect width="100%" height="100%" fill="url(#grad1)" rx="12"/>
-  <circle cx="35" cy="35" r="28" fill="#1a3a4a" opacity="0.8"/>
-  <text x="35" y="42" text-anchor="middle" font-size="32" dominant-baseline="middle">🔥</text>
-  <text x="75" y="28" fill="#00d4ff" font-size="13" font-family="'Segoe UI', Arial, sans-serif" font-weight="600" letter-spacing="0.5">
-    RANDOM TRENDING IN INDONESIA TWITTER
-  </text>
-  <line x1="75" y1="38" x2="480" y2="38" stroke="#1a2a4e" stroke-width="1" opacity="0.5"/>
-  <text x="75" y="65" fill="#ffffff" font-size="16" font-family="'Segoe UI', Arial, sans-serif" font-weight="bold">
-    <tspan>#MeAndTheeSeriesEP4</tspan>
-  </text>
-  <g>
-    <svg x="72" y="100" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="#00d4ff" stroke="#00d4ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-      <polygon points="12 2 15.09 10.26 24 10.5 17.18 16.34 19.34 24.5 12 18.92 4.66 24.5 6.82 16.34 0 10.5 8.91 10.26 12 2"></polygon>
-    </svg>
-    <text x="95" y="115" fill="#b0b0b0" font-size="13" font-family="'Segoe UI', Arial, sans-serif">
-      3.4M
-    </text>
-  </g>
-  <text x="475" y="175" fill="#b0b0b0" font-size="8" font-family="'Segoe UI', Arial, sans-serif" text-anchor="end" opacity="0.5">
-    DARK
-  </text>
-</svg>
-</a>
-```
+![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 
 ### Embed Otomatis (link ke file SVG)
 
