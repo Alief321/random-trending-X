@@ -1,0 +1,49 @@
+name: Daily Trending Scraper
+
+on:
+  schedule:
+    # Jalankan setiap hari pada jam 00:00 UTC (07:00 WIB)
+    - cron: '0 0 * * *'
+
+  # Juga bisa dijalankan manual dari Actions tab
+  workflow_dispatch:
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4
+
+      - name: Run scraper
+        run: python scraper.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+          if git diff --quiet; then
+            echo "No changes to commit"
+          else
+            git add README.md trending-badge.svg
+            git commit -m "🔥 Update random trending topic - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+            git push
+          fi

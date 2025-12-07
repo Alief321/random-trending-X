@@ -1,17 +1,3 @@
-# Random Trending X
-
-[![Daily Trending Scraper](https://github.com/Alief321/random-trending-X/actions/workflows/scraper.yml/badge.svg)](https://github.com/Alief321/random-trending-X/actions/workflows/scraper.yml)
-
-Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap hari dan menampilkannya dalam README dengan format SVG badge yang menarik. Bisa di-copy dan digunakan di repository lain!
-
-## 🔥 Today's Random Trending
-
-Updated: `2025-12-07T14:31:24.711701`
-
-### SVG Badge (Dark Mode)
-
-```html
-<a href="https://github.com/Alief321/random-trending-X">
 <svg width="500" height="180" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 180">
   <defs>
     <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -45,17 +31,3 @@ Updated: `2025-12-07T14:31:24.711701`
     DARK
   </text>
 </svg>
-</a>
-```
-
-### Embed Otomatis (link ke file SVG)
-
-```markdown
-![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
-```
-
-**Trending Topic:** `#MeAndTheeSeriesEP4`  
-**Tweet Count:** 3.4M
-
----
-
