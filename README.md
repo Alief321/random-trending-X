@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2025-12-13T01:06:08.164029`
+Updated: `2025-12-14T01:15:49.162520`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,8 +17,8 @@ Updated: `2025-12-13T01:06:08.164029`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `PERTH RECOMMEND GARNIER`  
-**Tweet Count:** 213K
+**Trending Topic:** `#FlipYourAngle`  
+**Tweet Count:** Unknown
 
 ---
 
