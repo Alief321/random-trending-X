@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2025-12-15T01:12:56.351254`
+Updated: `2025-12-16T01:11:45.411691`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,8 +17,8 @@ Updated: `2025-12-15T01:12:56.351254`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `Vini`  
-**Tweet Count:** 31K
+**Trending Topic:** `Mbeumo`  
+**Tweet Count:** 26K
 
 ---
 
