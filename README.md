@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2025-12-18T01:07:40.710255`
+Updated: `2025-12-19T01:11:05.244368`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,8 +17,8 @@ Updated: `2025-12-18T01:07:40.710255`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `#DareYouToLove_MV`  
-**Tweet Count:** 229K
+**Trending Topic:** `Indonesia Maju`  
+**Tweet Count:** Unknown
 
 ---
 
