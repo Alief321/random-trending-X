@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2025-12-21T01:15:12.625642`
+Updated: `2025-12-22T01:13:53.308473`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,8 +17,8 @@ Updated: `2025-12-21T01:15:12.625642`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `#GMMTVStarlympics2025`  
-**Tweet Count:** 3.8M
+**Trending Topic:** `91 EMAS`  
+**Tweet Count:** Unknown
 
 ---
 
