@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2025-12-25T01:10:41.411523`
+Updated: `2025-12-26T01:11:03.991220`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,8 +17,8 @@ Updated: `2025-12-25T01:10:41.411523`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `NCT WISH`  
-**Tweet Count:** 23K
+**Trending Topic:** `#ThePowerGiftivalxPondPhuwin`  
+**Tweet Count:** 701K
 
 ---
 
