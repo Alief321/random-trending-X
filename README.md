@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2025-12-28T01:18:57.225146`
+Updated: `2025-12-29T01:16:49.494437`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,8 +17,8 @@ Updated: `2025-12-28T01:18:57.225146`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `aceh-sumatera`  
-**Tweet Count:** 11K
+**Trending Topic:** `fasilitas haji indonesia`  
+**Tweet Count:** Unknown
 
 ---
 
