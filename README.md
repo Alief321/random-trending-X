@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-01-01T01:18:59.454794`
+Updated: `2026-01-02T01:12:54.923254`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,8 +17,8 @@ Updated: `2026-01-01T01:18:59.454794`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `Hello 2026`  
-**Tweet Count:** 82K
+**Trending Topic:** `tahta tertinggi micellar`  
+**Tweet Count:** Unknown
 
 ---
 
