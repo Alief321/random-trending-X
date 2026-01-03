@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-01-02T01:12:54.923254`
+Updated: `2026-01-03T01:08:11.727662`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,8 +17,8 @@ Updated: `2026-01-02T01:12:54.923254`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `tahta tertinggi micellar`  
-**Tweet Count:** Unknown
+**Trending Topic:** `KUHP`  
+**Tweet Count:** 14K
 
 ---
 
