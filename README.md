@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-01-03T01:08:11.727662`
+Updated: `2026-01-04T01:19:47.699521`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,8 +17,8 @@ Updated: `2026-01-03T01:08:11.727662`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `KUHP`  
-**Tweet Count:** 14K
+**Trending Topic:** `regulasi kripto aman`  
+**Tweet Count:** Unknown
 
 ---
 
