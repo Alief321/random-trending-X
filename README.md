@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-01-05T01:18:40.391609`
+Updated: `2026-01-06T01:12:34.179835`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,8 +17,8 @@ Updated: `2026-01-05T01:18:40.391609`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `Trump`  
-**Tweet Count:** 7.2M
+**Trending Topic:** `FINAL LOVE NUMBERS`  
+**Tweet Count:** 30K
 
 ---
 
