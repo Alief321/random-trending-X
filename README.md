@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-01-07T01:13:08.096482`
+Updated: `2026-01-08T01:13:15.612449`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,8 +17,8 @@ Updated: `2026-01-07T01:13:08.096482`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `Selasa`  
-**Tweet Count:** 13K
+**Trending Topic:** `#BurnoutSyndromeSeriesEP6`  
+**Tweet Count:** 228K
 
 ---
 
