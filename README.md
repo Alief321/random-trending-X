@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-01-09T01:13:24.459459`
+Updated: `2026-01-10T01:10:50.575981`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,8 +17,8 @@ Updated: `2026-01-09T01:13:24.459459`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `Martinelli`  
-**Tweet Count:** 66K
+**Trending Topic:** `LEGENDARY ACE PARK GUNWOOK`  
+**Tweet Count:** Unknown
 
 ---
 
