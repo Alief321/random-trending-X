@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-01-11T01:19:35.619695`
+Updated: `2026-01-12T01:16:28.104842`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,8 +17,8 @@ Updated: `2026-01-11T01:19:35.619695`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `Error`  
-**Tweet Count:** 95K
+**Trending Topic:** `4E FIRST FAMILY TIME`  
+**Tweet Count:** 1.8M
 
 ---
 
