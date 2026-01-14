@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-01-13T01:10:01.703749`
+Updated: `2026-01-14T01:15:43.171708`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,8 +17,8 @@ Updated: `2026-01-13T01:10:01.703749`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `LAST EPISODE OF H2H`  
-**Tweet Count:** 220K
+**Trending Topic:** `rdmp balikpapan`  
+**Tweet Count:** Unknown
 
 ---
 
