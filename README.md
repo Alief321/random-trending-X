@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-01-15T01:11:30.905847`
+Updated: `2026-01-16T01:13:32.638929`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,7 +17,7 @@ Updated: `2026-01-15T01:11:30.905847`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `Rosenior`  
+**Trending Topic:** `#ë¹ë¹ëë°ë¹ëë¶_ëª¨ë_ì´ë¤ì§_ì¹ê´ìì¼`  
 **Tweet Count:** Unknown
 
 ---
