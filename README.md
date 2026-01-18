@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-01-17T01:10:19.937202`
+Updated: `2026-01-18T01:18:34.817525`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,7 +17,7 @@ Updated: `2026-01-17T01:10:19.937202`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `#THE_SIN_VANISH`  
+**Trending Topic:** `PondPhuwin`  
 **Tweet Count:** Unknown
 
 ---
