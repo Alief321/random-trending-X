@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-01-19T01:17:24.386831`
+Updated: `2026-01-20T01:12:56.083765`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,7 +17,7 @@ Updated: `2026-01-19T01:17:24.386831`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `bright celebrate with love`  
+**Trending Topic:** `#Reno15SeriesTHxJoongDunk`  
 **Tweet Count:** Unknown
 
 ---
