@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-01-22T01:14:58.469831`
+Updated: `2026-01-23T01:13:49.443874`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,7 +17,7 @@ Updated: `2026-01-22T01:14:58.469831`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `ALD1 FREAK ALARM FIRST WIN`  
+**Trending Topic:** `#Dewtee`  
 **Tweet Count:** Unknown
 
 ---
