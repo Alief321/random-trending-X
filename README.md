@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-01-23T01:13:49.443874`
+Updated: `2026-01-24T01:10:59.366560`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,7 +17,7 @@ Updated: `2026-01-23T01:13:49.443874`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `#Dewtee`  
+**Trending Topic:** `#PPPKBGN`  
 **Tweet Count:** Unknown
 
 ---
