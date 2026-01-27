@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-01-26T01:19:22.045014`
+Updated: `2026-01-27T01:18:37.836321`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,7 +17,7 @@ Updated: `2026-01-26T01:19:22.045014`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `LINGORM HONGKONG MEET`  
+**Trending Topic:** `#à¸ªà¸à¸²à¸¡à¸­à¹à¸²à¸à¹à¸¥à¹à¸2026xJossGawin`  
 **Tweet Count:** Unknown
 
 ---
