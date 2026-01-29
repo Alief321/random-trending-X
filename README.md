@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-01-28T01:14:20.114718`
+Updated: `2026-01-29T01:24:11.840929`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,7 +17,7 @@ Updated: `2026-01-28T01:14:20.114718`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `EMIBONNIEANY FAM SIGN`  
+**Trending Topic:** `#InklusiKeuanganBRI`  
 **Tweet Count:** Unknown
 
 ---
