@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-01-30T01:24:06.506886`
+Updated: `2026-01-31T01:21:31.870941`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,7 +17,7 @@ Updated: `2026-01-30T01:24:06.506886`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `MAU YUPI GRATIS`  
+**Trending Topic:** `ZIYU WAVES RISE`  
 **Tweet Count:** Unknown
 
 ---
