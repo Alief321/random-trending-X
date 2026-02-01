@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-01-31T01:21:31.870941`
+Updated: `2026-02-01T01:47:55.772868`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,7 +17,7 @@ Updated: `2026-01-31T01:21:31.870941`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `ZIYU WAVES RISE`  
+**Trending Topic:** `#Doyoung30ToEternity`  
 **Tweet Count:** Unknown
 
 ---
