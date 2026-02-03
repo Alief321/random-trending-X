@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-02-02T01:28:36.417663`
+Updated: `2026-02-03T01:28:40.366337`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,7 +17,7 @@ Updated: `2026-02-02T01:28:36.417663`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `Februari`  
+**Trending Topic:** `Tsurugi Market`  
 **Tweet Count:** Unknown
 
 ---
