@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-02-07T01:23:51.680618`
+Updated: `2026-02-08T02:00:14.633543`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,7 +17,7 @@ Updated: `2026-02-07T01:23:51.680618`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `#MelodyOfSecretsEP9`  
+**Trending Topic:** `justice for trian ep 148`  
 **Tweet Count:** Unknown
 
 ---
