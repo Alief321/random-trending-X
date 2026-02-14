@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-02-13T01:45:28.232808`
+Updated: `2026-02-14T01:24:56.946205`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,7 +17,7 @@ Updated: `2026-02-13T01:45:28.232808`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `Balde`  
+**Trending Topic:** `LYKN ON THE RISE`  
 **Tweet Count:** Unknown
 
 ---
