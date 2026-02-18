@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-02-17T01:28:00.631485`
+Updated: `2026-02-18T01:42:53.136582`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,7 +17,7 @@ Updated: `2026-02-17T01:28:00.631485`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `JASPER FINAL COMBUSTION`  
+**Trending Topic:** `Prestianni`  
 **Tweet Count:** Unknown
 
 ---
