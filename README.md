@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-02-18T01:42:53.136582`
+Updated: `2026-02-19T01:42:17.393081`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,7 +17,7 @@ Updated: `2026-02-18T01:42:53.136582`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `Prestianni`  
+**Trending Topic:** `GEONWOO IS THE VICTIM`  
 **Tweet Count:** Unknown
 
 ---
