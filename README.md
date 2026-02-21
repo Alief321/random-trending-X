@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-02-20T01:25:35.115505`
+Updated: `2026-02-21T01:23:08.548076`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,7 +17,7 @@ Updated: `2026-02-20T01:25:35.115505`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `Trade $RNBW`  
+**Trending Topic:** `Amerika`  
 **Tweet Count:** Unknown
 
 ---
