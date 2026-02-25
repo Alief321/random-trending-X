@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-02-24T01:26:54.248932`
+Updated: `2026-02-25T01:29:31.024593`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,7 +17,7 @@ Updated: `2026-02-24T01:26:54.248932`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `Lammens`  
+**Trending Topic:** `EST WITH MARC JACOBS`  
 **Tweet Count:** Unknown
 
 ---
