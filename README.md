@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-02-26T01:26:14.653325`
+Updated: `2026-02-27T01:23:45.015585`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,7 +17,7 @@ Updated: `2026-02-26T01:26:14.653325`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `LPDP`  
+**Trending Topic:** `wardah crystal secret`  
 **Tweet Count:** Unknown
 
 ---
