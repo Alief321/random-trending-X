@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-02-28T01:18:35.500547`
+Updated: `2026-03-01T01:46:22.036163`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,7 +17,7 @@ Updated: `2026-02-28T01:18:35.500547`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `GameFi`  
+**Trending Topic:** `#dew_jsu`  
 **Tweet Count:** Unknown
 
 ---
