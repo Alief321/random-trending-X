@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-03-02T01:26:29.768544`
+Updated: `2026-03-03T01:29:17.010049`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,7 +17,7 @@ Updated: `2026-03-02T01:26:29.768544`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `Iran`  
+**Trending Topic:** `Try Sutrisno`  
 **Tweet Count:** Unknown
 
 ---
