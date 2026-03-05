@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-03-04T01:24:20.699042`
+Updated: `2026-03-05T01:26:33.572171`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,7 +17,7 @@ Updated: `2026-03-04T01:24:20.699042`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `Nyari Hampers Murah`  
+**Trending Topic:** `BONEK ANJING`  
 **Tweet Count:** Unknown
 
 ---
