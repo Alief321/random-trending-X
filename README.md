@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-03-06T01:28:49.351959`
+Updated: `2026-03-07T01:21:25.529051`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,7 +17,7 @@ Updated: `2026-03-06T01:28:49.351959`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `iphone 17 diskon`  
+**Trending Topic:** `Persatuan Nasional`  
 **Tweet Count:** Unknown
 
 ---
