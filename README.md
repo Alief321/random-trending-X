@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-03-07T01:21:25.529051`
+Updated: `2026-03-08T01:27:59.909103`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,7 +17,7 @@ Updated: `2026-03-07T01:21:25.529051`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `Persatuan Nasional`  
+**Trending Topic:** `Rest in Love`  
 **Tweet Count:** Unknown
 
 ---
