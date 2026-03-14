@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-03-13T01:25:55.720507`
+Updated: `2026-03-14T01:24:05.020590`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,7 +17,7 @@ Updated: `2026-03-13T01:25:55.720507`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `GF MEGA GALE EVENT`  
+**Trending Topic:** `PERTH DOMIIA CHARMING BEAUTY`  
 **Tweet Count:** Unknown
 
 ---
