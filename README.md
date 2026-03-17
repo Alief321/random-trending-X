@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-03-16T01:51:06.435942`
+Updated: `2026-03-17T01:27:59.570115`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,7 +17,7 @@ Updated: `2026-03-16T01:51:06.435942`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `TREASURE DESERVES BETTER`  
+**Trending Topic:** `BTS FOREVER`  
 **Tweet Count:** Unknown
 
 ---
