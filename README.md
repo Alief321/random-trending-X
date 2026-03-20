@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-03-19T01:45:05.528283`
+Updated: `2026-03-20T01:27:10.582616`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,7 +17,7 @@ Updated: `2026-03-19T01:45:05.528283`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `Tahun Baru Saka 1948`  
+**Trending Topic:** `Batin`  
 **Tweet Count:** Unknown
 
 ---
