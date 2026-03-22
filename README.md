@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-03-21T01:22:23.123553`
+Updated: `2026-03-22T01:43:52.552082`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,7 +17,7 @@ Updated: `2026-03-21T01:22:23.123553`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `Bournemouth`  
+**Trending Topic:** `#BTSLiveonNetflix`  
 **Tweet Count:** Unknown
 
 ---
