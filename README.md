@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-03-25T01:43:06.950691`
+Updated: `2026-03-26T01:49:01.543705`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,7 +17,7 @@ Updated: `2026-03-25T01:43:06.950691`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `#StrayKids8thAnniversary`  
+**Trending Topic:** `#TREASUREMAPISBACK`  
 **Tweet Count:** Unknown
 
 ---
