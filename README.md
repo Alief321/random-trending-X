@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-03-28T01:29:13.078612`
+Updated: `2026-03-29T01:51:34.288125`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,7 +17,7 @@ Updated: `2026-03-28T01:29:13.078612`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `optimalkan potensi sda`  
+**Trending Topic:** `#zonaduit`  
 **Tweet Count:** Unknown
 
 ---
