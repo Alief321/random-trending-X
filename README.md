@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-04-03T01:48:53.314416`
+Updated: `2026-04-04T01:42:07.389257`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,7 +17,7 @@ Updated: `2026-04-03T01:48:53.314416`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `Maluku Utara`  
+**Trending Topic:** `NCT DREAM`  
 **Tweet Count:** Unknown
 
 ---
