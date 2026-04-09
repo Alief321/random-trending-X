@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-04-08T01:51:43.461062`
+Updated: `2026-04-09T01:44:18.840063`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,7 +17,7 @@ Updated: `2026-04-08T01:51:43.461062`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `PONDPHUWIN FANIVAL FANSIGN`  
+**Trending Topic:** `Neuer`  
 **Tweet Count:** Unknown
 
 ---
