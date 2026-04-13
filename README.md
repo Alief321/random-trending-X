@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-04-12T01:58:16.726618`
+Updated: `2026-04-13T02:02:34.392809`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,7 +17,7 @@ Updated: `2026-04-12T01:58:16.726618`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `#DearestSehunDay`  
+**Trending Topic:** `Spring Day`  
 **Tweet Count:** Unknown
 
 ---
