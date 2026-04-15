@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-04-14T01:57:44.119018`
+Updated: `2026-04-15T01:53:57.930391`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,7 +17,7 @@ Updated: `2026-04-14T01:57:44.119018`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `FH UI`  
+**Trending Topic:** `YESTERDAY SPECIAL`  
 **Tweet Count:** Unknown
 
 ---
