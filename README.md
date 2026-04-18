@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-04-17T01:58:23.003944`
+Updated: `2026-04-18T01:49:20.527726`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,7 +17,7 @@ Updated: `2026-04-17T01:58:23.003944`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `Camavinga`  
+**Trending Topic:** `Frank Lampard`  
 **Tweet Count:** Unknown
 
 ---
