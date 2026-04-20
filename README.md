@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-04-19T02:02:19.783427`
+Updated: `2026-04-20T02:03:29.806266`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,7 +17,7 @@ Updated: `2026-04-19T02:02:19.783427`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `Real Sociedad`  
+**Trending Topic:** `Program Nasional Presiden`  
 **Tweet Count:** Unknown
 
 ---
