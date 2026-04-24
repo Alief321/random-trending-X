@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-04-23T02:01:48.893113`
+Updated: `2026-04-24T02:02:01.050617`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,7 +17,7 @@ Updated: `2026-04-23T02:01:48.893113`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `tni kita`  
+**Trending Topic:** `TWO DECADES OF MOHAN`  
 **Tweet Count:** Unknown
 
 ---
