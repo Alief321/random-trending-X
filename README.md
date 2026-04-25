@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-04-24T02:02:01.050617`
+Updated: `2026-04-25T01:51:31.853130`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,7 +17,7 @@ Updated: `2026-04-24T02:02:01.050617`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `TWO DECADES OF MOHAN`  
+**Trending Topic:** `SKYNANI WU PRESS TOUR`  
 **Tweet Count:** Unknown
 
 ---
