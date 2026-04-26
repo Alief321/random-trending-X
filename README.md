@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-04-25T01:51:31.853130`
+Updated: `2026-04-26T02:05:36.596897`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,7 +17,7 @@ Updated: `2026-04-25T01:51:31.853130`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `SKYNANI WU PRESS TOUR`  
+**Trending Topic:** `LINGORM X NOOM KANCHAI`  
 **Tweet Count:** Unknown
 
 ---
