@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-04-27T02:07:48.987104`
+Updated: `2026-04-28T02:14:10.493709`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,7 +17,7 @@ Updated: `2026-04-27T02:07:48.987104`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `PERTHSANTA ACTIVE IN DRPONG`  
+**Trending Topic:** `Senin`  
 **Tweet Count:** Unknown
 
 ---
