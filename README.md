@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-04-30T02:24:51.113784`
+Updated: `2026-05-01T02:29:17.960764`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,7 +17,7 @@ Updated: `2026-04-30T02:24:51.113784`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `pengabdian tanpa lelah`  
+**Trending Topic:** `SKYNANI PUNTHAI FAMILY DAY`  
 **Tweet Count:** Unknown
 
 ---
