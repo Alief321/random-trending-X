@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-05-02T02:06:22.189126`
+Updated: `2026-05-03T02:11:49.138331`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,7 +17,7 @@ Updated: `2026-05-02T02:06:22.189126`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `#OnlyFriendsDreamOnEP10`  
+**Trending Topic:** `penjaga ujung timur`  
 **Tweet Count:** Unknown
 
 ---
