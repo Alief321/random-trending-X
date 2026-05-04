@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-05-03T02:11:49.138331`
+Updated: `2026-05-04T02:11:09.823332`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,7 +17,7 @@ Updated: `2026-05-03T02:11:49.138331`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `penjaga ujung timur`  
+**Trending Topic:** `JIN ROCKS SUN BOWL`  
 **Tweet Count:** Unknown
 
 ---
