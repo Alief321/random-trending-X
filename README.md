@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-05-05T02:09:26.922510`
+Updated: `2026-05-06T02:10:16.053965`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,7 +17,7 @@ Updated: `2026-05-05T02:09:26.922510`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `WILLIAM'S NIGHT GLOW`  
+**Trending Topic:** `#bsitebardividen`  
 **Tweet Count:** Unknown
 
 ---
