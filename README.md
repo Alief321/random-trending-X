@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-05-06T02:10:16.053965`
+Updated: `2026-05-07T02:12:45.281803`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,7 +17,7 @@ Updated: `2026-05-06T02:10:16.053965`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `#bsitebardividen`  
+**Trending Topic:** `POND FRIEND OF 3CE`  
 **Tweet Count:** Unknown
 
 ---
