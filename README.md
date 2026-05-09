@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-05-08T02:28:57.268973`
+Updated: `2026-05-09T02:13:34.741524`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,7 +17,7 @@ Updated: `2026-05-08T02:28:57.268973`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `Hantavirus`  
+**Trending Topic:** `bersama tni kita`  
 **Tweet Count:** Unknown
 
 ---
