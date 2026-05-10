@@ -6,7 +6,7 @@ Scraper otomatis yang mengambil **trending topic acak** dari Indonesia setiap ha
 
 ## 🔥 Today's Random Trending
 
-Updated: `2026-05-09T02:13:34.741524`
+Updated: `2026-05-10T02:24:24.858168`
 
 ### SVG Badge (Dark Mode)
 
@@ -17,7 +17,7 @@ Updated: `2026-05-09T02:13:34.741524`
 ![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
 ```
 
-**Trending Topic:** `bersama tni kita`  
+**Trending Topic:** `LOVE UPON A TIME EP7`  
 **Tweet Count:** Unknown
 
 ---
