@@ -3,7 +3,7 @@ name: Daily Trending Scraper
 on:
   schedule:
     # Jalankan setiap hari pada jam 00:00 UTC (07:00 WIB)
-    - cron: '0 0 * * *'
+    #- cron: '0 0 * * *'
 
   # Juga bisa dijalankan manual dari Actions tab
   workflow_dispatch:
